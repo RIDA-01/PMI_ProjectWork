@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<reciepts>
+  <reciept>
+    <id>1</id>
+    <costumerName>csekok</costumerName>
+    <mealName>gyros</mealName>
+
+    <totalPrice>900.0</totalPrice>
+    <date>2022-05-11</date>
+  </reciept>
+  <reciept>
+    <id>2</id>
+    <costumerName>rida</costumerName>
+    <mealName>fries</mealName>
+    <totalPrice>500.0</totalPrice>
+    <date>2022-05-11</date>
+  </reciept>
+</reciepts>
